@@ -1,0 +1,6 @@
+employeeid,FirstName,LastName,email,phonenumber,hiredate,salary,departmentid,isactive,jobtitle
+1,Gagandeep singh,Palahyia,gagandeepsingh79@gmail.com,7620375270,25-10-2024,25000.12,1,FALSE,Data Anyltics
+2,Rashii,Ghaydde,Raaasshi@gmail.com,76203712670,25-10-2024,25000.12,1,FALSE,Data Anyltics
+3,Akiq,Sheikh,Akiq@gmail.com,762073726701,25-10-2024,25000.12,1,FALSE,Data Anyltics
+4,projector,prajakta,prajakta79@gmail.com,76120372670,25-10-2024,25000.12,1,FALSE,Data Anyltics
+5,Mrunali,uttaam,Mrunali79@gmail.com,76203726701,25-10-2024,25000.12,1,FALSE,Data Anyltics
